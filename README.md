@@ -107,6 +107,7 @@ mingw32-make run
 
 # Windows
 output\main.exe
+```
 
 3. **Follow the prompts:**
    - Enter the path to the lyrics file (full or relative)
